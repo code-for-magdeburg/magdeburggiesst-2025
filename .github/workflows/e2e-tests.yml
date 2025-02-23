@@ -93,8 +93,8 @@ jobs:
         id: checkout-api
         uses: actions/checkout@v4
         with:
-          repository: technologiestiftung/giessdenkiez-de-postgres-api
-          ref: "staging"
+          repository: code-for-magdeburg/magdeburggiesst-postgres-api-2025
+          ref: "main-magdeburg"
           path: api
 
       - name: Install Supabase CLI ⚙️
