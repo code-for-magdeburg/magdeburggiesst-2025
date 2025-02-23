@@ -30,7 +30,7 @@ jobs:
         if: steps.cache-npm-deps.outputs.cache-hit != 'true'
         run: npm ci
 
-      - name: Create a release 🚢
-        run: npx semantic-release --ci
-        env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+#      - name: Create a release 🚢
+#        run: npx semantic-release --ci
+#        env:
+#          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
