@@ -16,12 +16,12 @@ export const DensityMap: React.FC = () => {
 	const svgMargin = { top: 0, right: 0, bottom: 5, left: 0 };
 	const innerHeight = height - svgMargin.top - svgMargin.bottom;
 
-	const scale = width < height ? width / 0.012 : height / 0.012;
+	const scale = width < height ? width / 0.0066 : height / 0.0066;
 
 	const projection = useCallback(
 		d3
 			.geoMercator()
-			.center([13.4, 52.5])
+			.center([11.63, 52.12])
 			.translate([width / 2, innerHeight / 2])
 			.scale(scale),
 		[width, height, scale],
