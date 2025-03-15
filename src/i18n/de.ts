@@ -525,19 +525,19 @@ Der Bezirk ${district} hat uns zusätzliche Informationen zur individuellen Gie�
 	},
 	splash: {
 		headline:
-			"Die Berliner Stadtbäume leiden unter Trockenheit und Du kannst ihnen helfen!",
+			"Die Magdeburger Stadtbäume leiden unter Trockenheit und Du kannst ihnen helfen!",
 		subheadlineWinter: `Derzeit sind die Bäume quasi im Winterschlaf und benötigen kein zusätzliches Wasser.
 **Ab März startet die Gießsaison dann wieder, und zwar volle Kanne!**`,
 		subheadline:
-			"Erkundige Dich über den Wasserbedarf der Bäume in Deiner Nachbarschaft, adoptiere den Baum vor Deiner Haustür und werde Teil der aktiven Gieß-Community in Berlin!",
+			"Erkundige Dich über den Wasserbedarf der Bäume in Deiner Nachbarschaft, adoptiere den Baum vor Deiner Haustür und werde Teil der aktiven Gieß-Community in Magdeburg!",
 		actionTitle: "Los geht's",
 		actionTitleWinter: "Erkunden!",
 		discoverTitle: "Entdecken",
 		discoverContent:
-			"Die Karte visualisiert über 800.000 Stadtbäume und zeigt Informationen zu Art, Alter und Wasserbedarf an. Nutze die Filter- und Suchfunktionen, um schnell einen Überblick zu erhalten.",
+			"Die Karte visualisiert über 80.000 Stadtbäume und zeigt Informationen zu Art, Alter und Wasserbedarf an. Nutze die Filter- und Suchfunktionen, um schnell einen Überblick zu erhalten.",
 		waterTitle: "Gießen",
 		waterContent:
-			"Schnapp Dir eine Gießkanne und werde Teil der Gieß-Community! Bereits über tausend Aktive haben sich für die Bäume Berlins zusammengeschlossen und tragen ihre Gießungen regelmäßig ein.",
+			"Schnapp Dir eine Gießkanne und werde Teil der Gieß-Community! Bereits über einhundert Aktive haben sich für die Bäume von Magdeburg zusammengeschlossen und tragen ihre Gießungen regelmäßig ein.",
 		adoptTitle: "Adoptieren",
 		adoptContent:
 			"Durch das Adoptieren eines Baumes - oder auch mehrerer - lässt Du Deine Nachbarschaft wissen, dass für diese Bäume gesorgt wird. So gelingt ein koordiniertes Engagement.",

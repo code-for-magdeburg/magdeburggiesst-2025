@@ -514,19 +514,19 @@ The district ${district} has provided us with additional information on the indi
 	},
 	splash: {
 		headline:
-			"Berlin's city trees are suffering from drought and you can help them!",
+			"Magdeburg's city trees are suffering from drought and you can help them!",
 		subheadlineWinter: `Currently the trees are practically in hibernation and don’t need any additional water.
 **Starting in March, it will pick up again! We Can!**`,
 		subheadline:
-			"Find out about the water needs of the trees in your neighborhood, adopt the tree on your doorstep and become part of the active watering community in Berlin!",
+			"Find out about the water needs of the trees in your neighborhood, adopt the tree on your doorstep and become part of the active watering community in Magdeburg!",
 		actionTitle: "Let's go",
 		actionTitleWinter: "Explore!",
 		discoverTitle: "Discover",
 		discoverContent:
-			"The map visualizes over 800,000 urban trees and displays information on species, age and water requirements. Use the filter and search functions to quickly get an overview.",
+			"The map visualizes over 80,000 urban trees and displays information on species, age and water requirements. Use the filter and search functions to quickly get an overview.",
 		waterTitle: "Water",
 		waterContent:
-			"Grab a watering can and become part of the watering community! Over a thousand active people have already joined forces for Berlin's trees and are regularly submitting their waterings.",
+			"Grab a watering can and become part of the watering community! Over one hundred active people have already joined forces for Magdeburg's trees and are regularly submitting their waterings.",
 		adoptTitle: "Adopt",
 		adoptContent:
 			"By adopting a tree - or several - you let your neighborhood know that these trees will be cared for. This creates a coordinated commitment.",
