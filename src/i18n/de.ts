@@ -569,8 +569,8 @@ Der Bezirk ${district} hat uns zusätzliche Informationen zur individuellen Gie�
 		treeLoading: "Lade Bauminformationen...",
 	},
 	stats: {
-		title: "Statistiken Berlin",
-		subtitle: "Gieß den Kiez in Zahlen",
+		title: "Statistiken Magdeburg",
+		subtitle: "MAGDEBURG GIESST in Zahlen",
 		streetTrees: "Stadtbäume",
 		publicPumps: "Öffentliche Pumpen",
 		activeUsers: "Aktive Gießer:innen",
@@ -581,9 +581,7 @@ Der Bezirk ${district} hat uns zusätzliche Informationen zur individuellen Gie�
 			unit: "mal",
 			legend: "Anzahl der Gießungen",
 			hint: (currentYear) => `wurde im Jahr ${currentYear} gegossen.`,
-			backContent: `Die Gießaktivität variiert in den zwölf Berliner Bezirken je nach ehrenamtlichem Engagement. In einigen Bezirken haben sich engagierte Anwohner:innen bereits zu Gießgruppen organisiert ([Slack Community](https://giessdenkiez.slack.com/ssb/redirect)).
-
-Zudem ist der Bedarf der bezirklichen [Straßen- und Grünflächenamt (SGA)](https://www.berlin.de/ba-friedrichshain-kreuzberg/politik-und-verwaltung/aemter/strassen-und-gruenflaechenamt/) unterschiedlich. Um bestmöglich zu helfen, sollte man das zuständige SGA zuvor kontaktieren - und schon kann es losgehen.`,
+			backContent: `Die Gießaktivität variiert in den Magdeburger Stadtteilen je nach ehrenamtlichem Engagement. In einigen Stadtteilen haben sich engagierte Anwohner:innen bereits zu Gießgruppen organisiert ([Slack Community](https://join.slack.com/t/magdeburggiesst/shared_invite/zt-1tf5i2z3k-mTmk_PUBEOWuNWzDSNoH4w)).`,
 		},
 		wateringBehaviorStat: {
 			title: "Gießverhalten",
@@ -593,10 +591,9 @@ Zudem ist der Bedarf der bezirklichen [Straßen- und Grünflächenamt (SGA)](htt
 			watered: "gegossen",
 			rain: "Regen",
 			hint: () => `wurden insgesamt schon seit 2020 gegossen.`,
-			backContent: `Über stolze 2 Millionen Liter wurden bereits ehrenamtlich gegossen! 
-
+			backContent: `Tausende Liter Wasser wurden bereits ehrenamtlich gegossen! 
 		
-“Je mehr desto besser” gilt jedoch nicht immer angesichts immer größerer Wasserknappheit. Und das weiß die Berliner Gieß-Community natürlich, und ist daher hauptsächlich dann aktiv wenn die Bäume tatsächlich durstig sind: während der  Vegetationsperiode (April-Oktober) in besonders heißen trockenen Jahren. 
+“Je mehr desto besser” gilt jedoch nicht immer angesichts immer größerer Wasserknappheit. Und das weiß die Magdeburger Gieß-Community natürlich, und ist daher hauptsächlich dann aktiv wenn die Bäume tatsächlich durstig sind: während der  Vegetationsperiode (April-Oktober) in besonders heißen trockenen Jahren. 
 
 Datenquelle: [Wetterdaten (DWD)](https://opendata.dwd.de/)`,
 		},
@@ -610,30 +607,30 @@ Datenquelle: [Wetterdaten (DWD)](https://opendata.dwd.de/)`,
 
 Eine Gießung sollte eher mehr als weniger Liter auf einmal beinhalten, damit sich das Wurzelwerk der durstigen Jungbäume nach unten ausbilden kann. 
 
-Aber Achtung! Jungbäume können auch überwässert werden. Mehr Informationen zur [Bewässerungsempfehlung für Stadtbäume](https://www.berlin.de/pflanzenschutzamt/stadtgruen/beratung/bewaesserungsempfehlung-fuer-stadtbaeume/).`,
+Aber Achtung! Jungbäume können auch überwässert werden. Mehr Informationen zur [Bewässerungsempfehlung für Stadtbäume](https://www.berlin.de/sen/uvk/natur-und-gruen/stadtgruen/stadtbaeume/waessern-von-stadtbaeumen/).`,
 		},
 		treeSpeciesStat: {
 			title: "Baumarten",
 			unit: "Baumarten",
-			hint: () => `stehen in Berlin.`,
+			hint: () => `stehen in Magdeburg.`,
 			other: "Andere",
-			legend: "Anteile Berliner Baumbestand",
-			backContent: `Berlin ist vielfältig - inklusive der Bäume!
+			legend: "Anteile Magdeburger Baumbestand",
+			backContent: `Magdeburg ist vielfältig - inklusive der Bäume!
 
 Diese Übersicht zeigt die zwanzig häufigsten Arten, jeweils zusammengefasst nach der übergreifenden Gattung.
 
-Die [Gieß den Kiez Karte](https://www.giessdenkiez.de/map) zeigt die volle Pracht, und somit fast 900.000 Stadtbäume, mit Infos zu Art, Alter und Wasserbedarf. Nutze die Filter und Suche, um mehr über die Bäume in Deiner Nachbarschaft zu erfahren.
+Die MAGDEBURG GIESST Karte zeigt die volle Pracht, und somit über 80.000 Stadtbäume, mit Infos zu Art, Alter und Wasserbedarf. Nutze die Filter und Suche, um mehr über die Bäume in Deiner Nachbarschaft zu erfahren.
 
-Datenquelle: [Berliner Baumkataster (Geoportal Berlin)](https://daten.berlin.de/datensaetze/baumbestand-berlin-wms )`,
+Datenquelle: [Magdeburger Baumkataster](https://www.magdeburg.de/B%C3%BCrger-Stadt/Verwaltung-Service/Offene-Verwaltungsdaten/index.php?NavID=37.906&object=tx|37.12819.1&La=1&)`,
 		},
 		adoptionStat: {
 			title: "Baumadoptionen",
 			unit: "Bäume",
 			hint: () => `sind adoptiert.`,
 			legend: "der adoptierten Bäume sind besonders durstig.",
-			backContent: `Einen Baum auf Gieß den Kiez zu adoptieren zeigt, dass sich regelmäßig um diesen gesorgt wird und erleichtert somit die nachbarschaftliche Koordination. Über tausende Bäume können sich also bereits glücklich schätzen.
+			backContent: `Einen Baum auf MAGDEBURG GIESST zu adoptieren, zeigt, dass sich regelmäßig um diesen gesorgt wird und erleichtert somit die nachbarschaftliche Koordination. Dutzende Bäume können sich also bereits glücklich schätzen.
 
-Durstig sind vor allem Jungbäume (unter 10 Jahren). Diese werden in der Regel mind. bis zum fünften Jahr vom Grünflächenamt gegossen. “Besonders durstig” sind somit die **5 - 10 Jahre** alten Bäume.`,
+Durstig sind vor allem Jungbäume (unter 15 Jahren). Diese werden in der Regel mind. bis zum fünften Jahr vom Stadtgartenbetrieb gegossen. “Besonders durstig” sind somit die **5 - 15 Jahre** alten Bäume.`,
 		},
 		gdKSalesPitch: `*Gieß den Kiez* für **Deine Stadt**?
 

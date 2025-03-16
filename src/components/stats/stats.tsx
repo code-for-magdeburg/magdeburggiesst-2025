@@ -1,8 +1,6 @@
 import React, { useEffect } from "react";
 import { LanguageToggle } from "../router/languageToggle";
 import { useI18nStore } from "../../i18n/i18n-store";
-import Markdown from "react-markdown";
-import { ExternalAnchorLink } from "../anchor-link/external-anchor-link";
 import { SimpleStats } from "./simple-stats/simple-stats";
 import { useStatsStore } from "./store/stats-store";
 import { ComplexCharts } from "./complex-charts/complex-charts";
@@ -43,23 +41,6 @@ export const Stats: React.FC = () => {
 							</div>
 							<div className="grid grid-cols-1 md:grid-cols-2 gap-4">
 								<ComplexCharts />
-
-								<div className="px-4 flex flex-col md:self-end md:text-end">
-									<Markdown
-										// @ts-expect-error typing too complex
-										components={{ a: ExternalAnchorLink }}
-										className={"[&>p]:pt-1 pt-2 md:pt-4"}
-									>
-										{i18n.info.about.head.feedback}
-									</Markdown>
-									<Markdown
-										// @ts-expect-error typing too complex
-										components={{ a: ExternalAnchorLink }}
-										className={"[&>p]:pt-1 py-4"}
-									>
-										{i18n.stats.gdKSalesPitch}
-									</Markdown>
-								</div>
 							</div>
 						</div>
 					</div>
