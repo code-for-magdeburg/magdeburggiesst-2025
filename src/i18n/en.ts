@@ -98,7 +98,7 @@ export const en: Content = {
 				register: "Register",
 				confirmEmailTitle: "Confirm account",
 				confirmEmail: (email: string) =>
-					`Check your inbox for "${email}", you should have received a mail from "no-reply@giessdenkiez.de" containing a link to activate your account.`,
+					`Check your inbox for "${email}", you should have received a mail from "info@magdeburg-giesst.de" containing a link to activate your account.`,
 				existingAccount: "Do you already have an account?",
 				logIn: "Login",
 				passwordShould: "Your password needs to contain:",
@@ -293,7 +293,7 @@ Die Nutzung über das Smartphone (Mobilfunknetz) kann zu Performance-Problemen (
 		ageUnknown: "Unknown",
 		treeTypeUnknown: "Tree species unknown",
 		managedBy:
-			"This tree is already being taken care of by the Berlin administration and does not need to be watered.",
+			"This tree is already being taken care of by the Stadtgartenbetrieb and does not need to be watered.",
 		waterNeed: {
 			title: "Water requirements",
 			hintWinter:
@@ -317,8 +317,8 @@ Die Nutzung über das Smartphone (Mobilfunknetz) kann zu Performance-Problemen (
 			rained: "rain",
 			stillMissing: "still missing",
 			dataOfLastXDays: "* data of last 30 days",
-			manager: "district",
-			alreadyWateredByManager: "Watered by **district authority**",
+			manager: "Stadtgartenbetrieb",
+			alreadyWateredByManager: "Watered by **Stadtgartenbetrieb**",
 			alreadyWateredByGroundwater: "Covered by **groundwater**",
 			winterNeedsNoWater: "No water needed in winter",
 			stillWaterXLiters: (liters: string) => `
@@ -332,11 +332,11 @@ Needs
 			ageAndWaterHint: `
 Particularly young trees need water in the first few years. Rather less often, but a lot at once. 
 
-**Below 5 years**: We are taken care of by the district green space office.
+**Below 5 years**: We are taken care of by the Stadtgartenbetrieb.
 
-**5-10 years**: At this age, we are no longer watered by the administration in all districts and are not yet "self-sufficient". We are thankful for some extra water, especially in dry times - preferably less often, but a lot at once (approx. 100-200 liters per month). 
+**5-15 years**: At this age, we are no longer watered by the administration in all districts and are not yet "self-sufficient". We are thankful for some extra water, especially in dry times - preferably less often, but a lot at once (approx. 100-200 liters per month). 
 
-**Older trees (10+ years)**: We can supply ourselves via the groundwater.`,
+**Older trees (15+ years)**: We can supply ourselves via the groundwater.`,
 			ageAndWaterHintWinter: `
 When the trees lose more of their leaves in autumn, their photosynthetic processes also decrease, and they need less energy—and therefore less water. 
 With the official end of the vegetation period, the watering season also comes to an end for this year. Starting in March, it will pick up again! We Can!
@@ -553,7 +553,7 @@ The district ${district} has provided us with additional information on the indi
 	},
 	loading: {
 		mapLoading:
-			"We are currently loading 885,825 trees from the Berlin tree population.",
+			"We are currently loading over 82,000 trees from the Magdeburg tree population.",
 		treeLoading: "Loading tree information...",
 	},
 	stats: {

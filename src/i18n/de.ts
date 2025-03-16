@@ -97,7 +97,7 @@ export const de: Content = {
 				register: "Registrieren",
 				confirmEmailTitle: "Account bestätigen",
 				confirmEmail: (email: string) =>
-					`Überprüfe Dein E-Mail Postfach für ${email} nach einer E-Mail von "no-reply@giessdenkiez.de" mit einem Link um Deinen Account zu bestätigen.`,
+					`Überprüfe Dein E-Mail Postfach für ${email} nach einer E-Mail von "info@magdeburg-giesst.de" mit einem Link um Deinen Account zu bestätigen.`,
 				existingAccount: "Du hast schon einen Account?",
 				logIn: "Melde Dich an",
 				passwordShould: "Dein Passwort muss enthalten:",
@@ -302,7 +302,7 @@ Die Nutzung über das Smartphone (Mobilfunknetz) kann zu Performance-Problemen (
 		ageUnknown: "Unbekannt",
 		treeTypeUnknown: "Baumart unbekannt",
 		managedBy:
-			"Dieser Baum wird bereits vom Bezirksamt versorgt und muss nicht gegossen werden.",
+			"Dieser Baum wird bereits vom Stadtgartenbetrieb versorgt und muss nicht gegossen werden.",
 		waterNeed: {
 			title: "Wasserbedarf",
 			hintWinter:
@@ -326,8 +326,8 @@ Die Nutzung über das Smartphone (Mobilfunknetz) kann zu Performance-Problemen (
 			rained: "Regen",
 			stillMissing: "fehlen noch",
 			dataOfLastXDays: "* Daten der letzen 30 Tage",
-			manager: "vom Bezirksamt",
-			alreadyWateredByManager: "Bereits vom **Bezirksamt versorgt**",
+			manager: "vom Stadtgartenbetrieb",
+			alreadyWateredByManager: "Bereits vom **Stadtgartenbetrieb versorgt**",
 			alreadyWateredByGroundwater: "Über das **Grundwasser versorgt**",
 			winterNeedsNoWater: "Benötigt aktuell kein Wasser",
 			stillWaterXLiters: (liters: string) => `
@@ -343,11 +343,11 @@ gießen`,
 			ageAndWaterHint: `
 Insbesondere junge Bäume brauchen in den ersten Jahren Wasser. Lieber seltener, aber dafür viel.
 
-**Unter 5 Jahren**: Wir sind frische Jungbäume und unser Durst wird vom bezirklichen Grünflächenamt gestillt.
+**Unter 5 Jahren**: Wir sind frische Jungbäume und unser Durst wird vom Stadtgartenbetrieb gestillt.
 
-**5-10 Jahre**: In dem Alter werden wir nicht mehr in allen Bezirken von der Verwaltung bewässert und sind noch keine „Selbstversorger“. Wir freuen uns gerade in trockenen Zeiten über Wasser - lieber seltener, aber viel auf einmal (ca. 100-200l pro Monat).
+**5-15 Jahre**: In dem Alter werden wir nicht mehr in allen Stadtteilen von der Verwaltung bewässert und sind noch keine „Selbstversorger“. Wir freuen uns gerade in trockenen Zeiten über Wasser - lieber seltener, aber viel auf einmal (ca. 100-200l pro Monat).
 
-**Ältere Bäume (10+ Jahre)**: Wir können uns über das Grundwasser selbst versorgen.
+**Ältere Bäume (15+ Jahre)**: Wir können uns über das Grundwasser selbst versorgen.
 `,
 			ageAndWaterHintWinter: `
 Wenn die Bäume im Herbst zunehmend ihre Blätter verlieren, reduzieren sich auch ihre photosynthetische Prozesse und sie benötigen weniger Energie – und deswegen auch weniger Wasser.
@@ -565,7 +565,8 @@ Der Bezirk ${district} hat uns zusätzliche Informationen zur individuellen Gie�
 		letsGo: "Los geht's",
 	},
 	loading: {
-		mapLoading: "Wir laden gerade 885.825 Bäume aus dem Berliner Baumbestand.",
+		mapLoading:
+			"Wir laden gerade über 82.000 Bäume aus dem Magdeburger Baumbestand.",
 		treeLoading: "Lade Bauminformationen...",
 	},
 	stats: {
