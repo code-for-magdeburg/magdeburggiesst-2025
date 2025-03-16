@@ -19,7 +19,7 @@ export const ProblemCard: React.FC = () => {
 					<div>{i18n.treeDetail.problem.description}</div>
 					<div>
 						<ExternalAnchorLink
-							href="https://ordnungsamt.berlin.de/frontend/meldungNeu/wo"
+							href="https://magdeburg.sagsunseinfach.de"
 							label={i18n.treeDetail.problem.link}
 						/>
 					</div>
