@@ -20,11 +20,11 @@ export const de: Content = {
 				label: "Feedback",
 			},
 			imprint: {
-				href: "https://www.technologiestiftung-berlin.de/de/impressum/",
+				href: "https://www.netz39.de/impressum/",
 				label: "Impressum",
 			},
 			privacy: {
-				href: "https://www.technologiestiftung-berlin.de/de/datenschutz/",
+				href: "https://www.netz39.de/datenschutz/",
 				label: "Datenschutz",
 			},
 		},
