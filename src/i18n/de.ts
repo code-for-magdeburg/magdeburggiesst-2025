@@ -16,7 +16,7 @@ export const de: Content = {
 				label: "**Diese Karte verbessern**",
 			},
 			feedback: {
-				href: "https://citylabberlin.typeform.com/to/kCdnCgvC#product_id=GdK",
+				href: "https://survey.typeform.com/to/k8H12Hlf",
 				label: "Feedback",
 			},
 			imprint: {
@@ -147,7 +147,7 @@ export const de: Content = {
 				slackButton: "Zur Slack Community",
 				feedback: `Du hast **Feedback** zu *MAGDEBURG GIESST*?
 
-[Beantworte uns gerne ein paar Fragen](https://citylabberlin.typeform.com/to/kCdnCgvC#product_id=GdK)`,
+[Beantworte uns gerne ein paar Fragen](https://survey.typeform.com/to/k8H12Hlf)`,
 			},
 			qa: [
 				{
