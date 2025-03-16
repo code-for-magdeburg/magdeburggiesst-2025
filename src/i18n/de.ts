@@ -402,82 +402,82 @@ Der Bezirk ${district} hat uns zusätzliche Informationen zur individuellen Gie�
 		},
 		treeTypeInfos: [
 			{
-				id: "LINDE",
+				id: "Linde",
 				title: "Linde (Tilia)",
 				description:
-					"Die Linde gilt seit Jahren als der berlintypische Straßenbaum. Mit einem Anteil von gut einem Drittel prägt sie den Straßenbaumbestand. Insgesamt lassen sich 10 verschiedene Arten unterscheiden. Bevorzugt gepflanzt wird die Winter-Linde (Tilia cordata), die als mittelgroßer Baum auch in schmaleren Straßen noch Raum findet. Die großkronige Kaiserlinde (Tilia intermedia) ist dagegen den weiträumigen Alleen vorbehalten.",
+					"Die Linde ist ein schöner Baum mit herzförmigen Blättern, der oft an Stadtplätzen und in Straßen gepflanzt wird. Im Sommer duften ihre kleinen gelben Blüten süß und locken viele Bienen an, die dort Nektar sammeln. Der Lindenbaum spendet mit seiner runden Krone viel Schatten, unter dem Menschen sich an heißen Tagen ausruhen können. Linden können in der Stadt sehr alt und groß werden und sind bekannt dafür, dass sie gut mit Abgasen und staubiger Luft zurechtkommen. Die Linde ist ein freundlicher Stadtbaum, der den Menschen nicht nur Schatten gibt, sondern auch die Luft sauberer macht.",
 			},
 			{
-				id: "AHORN",
+				id: "Ahorn",
 				title: "Ahorn (Acer)",
 				description:
-					"Die Gattung der Ahorne umfasst ca. 20% des Gesamtbestandes. Für den Standort „Straße” ist vor allem der Spitzahorn (Acer platanoides) geeignet. Die frühe Blüte und die bunte Herbstfärbung machen den Ahorn zu einer besonders beliebten Baumgattung.",
+					'Der Ahorn ist ein beliebter Baum in der Stadt mit seinen auffälligen, sternförmigen Blättern, die sich im Herbst wunderschön rot und gelb färben. Im Frühjahr bildet der Ahorn kleine Blüten, aus denen später die lustigen "Nasenzwicker" wachsen - Früchte mit Flügeln, die sich wie Propeller drehen, wenn sie vom Baum fallen. Viele Vögel und Insekten finden im Ahorn ein Zuhause, auch mitten in der Stadt. Der Ahorn wächst schnell und kann gut mit dem Stadtklima umgehen, weshalb er oft an Straßen und in Parks gepflanzt wird. Seine breite Krone spendet im Sommer angenehmen Schatten für spielende Kinder und Erwachsene, die eine Pause machen möchten.',
 			},
 			{
-				id: "EICHE",
+				id: "Eiche",
 				title: "Eiche (Quercus)",
 				description:
-					"Der Anteil der Eichen beträgt rund 9% des Gesamtbestandes. In Berlin wird vor allem die Stiel-Eiche (Quercus robur) angepflanzt. Als Lichtbaum ist die Eiche nicht für enge Straßen geeignet. Die jüngsten Alleen im Parlaments- und Regierungsviertel wurden mit der sog. Spree-Eiche (Quercus palustris) bepflanzt, die sich u.a. durch ihre besonders schöne Herbstfärbung auszeichnet.",
+					"Die Eiche ist ein großer, starker Baum, der in vielen Städten in Parks und auf Plätzen wächst. Sie hat besondere Blätter mit gezackten Rändern und trägt im Herbst Eicheln, die wie kleine Hütchen mit Schalen aussehen und von Eichhörnchen und anderen Tieren gern gesammelt werden. Ein Eichenbaum kann sehr alt werden - manchmal mehrere hundert Jahre - und bietet vielen Vögeln, Insekten und kleinen Tieren ein Zuhause in der Stadt. Die Eiche hat eine dicke, raue Rinde und kann auch in der Stadt mit Abgasen und schlechter Luft gut leben. Unter ihrer breiten Krone finden Menschen im Sommer kühlen Schatten, wenn es in der Stadt heiß ist.",
 			},
 			{
-				id: "PLATANE",
+				id: "Platane",
 				title: "Platane (Platanus)",
 				description:
-					"Ein idealer Alleebaum für breite Straßen ist die Platane (Platanus acerifolia), die neben einer Höhe von 20 bis 30 m auch einen stattlichen Kronendurchmesser von 15 bis 20 m erreichen kann. Am Gesamtbestand haben die Platanen einen Anteil von etwa 6%. Die bekannteste und mit über 120 Jahren älteste Platanenallee in Berlin ist die Puschkinallee in Berlin-Treptow.",
+					"Die Platane ist ein großer Stadtbaum mit auffälliger, scheckiger Rinde, die wie ein Puzzle in braunen, grünen und gelben Flecken aussieht. Ihre Blätter ähneln einer Hand mit fünf Fingern und spenden im Sommer viel Schatten auf Stadtplätzen und an Straßen. Die Platane trägt kleine, runde, stachelige Früchte, die wie Bälle am Baum hängen und später aufplatzen. Sie ist besonders gut für die Stadt geeignet, weil sie Hitze, Trockenheit und schmutzige Luft besser aushält als viele andere Bäume. Die Platane kann sehr alt werden und ist oft der größte Baum auf einem Spielplatz oder in einem Stadtpark.",
 			},
 			{
-				id: "KASTANIE",
+				id: "Kastanie",
 				title: "Kastanie (Aesculus)",
 				description:
-					"Die Kastanie (Aesculus) hat einen Anteil von ca. 5% am Gesamtbestand, und belegt damit den fünften Platz unter den Berliner Straßenbäumen. Rosskastanien haben fünf- und mehrgliedrige Blätter, die an die Finger einer Hand erinnern; Esskastanien haben einzelne Blätter, die überdies deutlich gezackt sind.",
+					"Die Kastanie ist ein prächtiger Baum mit großen, gefächerten Blättern, der in vielen Städten auf Schulhöfen und in Parks zu finden ist. Im Frühling trägt sie wunderschöne weiße oder rosa Blütenkerzen, die wie kleine Türmchen aussehen und den Baum schmücken. Im Herbst fallen die glänzenden braunen Kastanien in stacheligen grünen Schalen auf den Boden, die Kinder gerne sammeln, um damit zu basteln oder zu spielen. Der Kastanienbaum bietet mit seiner dichten Krone einen guten Schattenplatz, wenn es im Sommer in der Stadt heiß ist. In vielen Städten sind Kastanienbäume besonders beliebt, weil sie groß und stark werden und schöne Plätze zum Verweilen schaffen.",
 			},
 			{
-				id: "ROSSKASTANIE",
+				id: "Rosskastanie",
 				title: "Rosskastanie (Aesculus hippocastanum)",
 				description:
-					"Die Rosskastanie (Aesculus hippocastanum) hat einen Anteil von ca. 5% am Gesamtbestand, und belegt damit den fünften Platz unter den Berliner Straßenbäumen. Rosskastanien haben fünf- und mehrgliedrige Blätter, die an die Finger einer Hand erinnern; Esskastanien haben einzelne Blätter, die überdies deutlich gezackt sind.",
+					"Die Rosskastanie ist ein beliebter Stadtbaum mit großen, handförmigen Blättern, die wie ein Fächer mit sieben Fingern aussehen. Im Frühling schmückt sie sich mit weißen Blütenkerzen, die wie kleine Türmchen nach oben stehen und den ganzen Baum zum Leuchten bringen. Im Herbst fallen glänzend braune Kastanien in stacheligen grünen Schalen herunter, die Kinder gerne sammeln, um daraus Kastanienmännchen oder andere Figuren zu basteln. Die Rosskastanie wächst zu einem großen, runden Baum heran und spendet in Parks und auf Schulhöfen viel Schatten an heißen Tagen. Obwohl die Früchte der Rosskastanie nicht essbar sind (anders als die echten Esskastanien), ist sie ein wichtiger Baum für die Stadt, weil sie vielen Insekten Nahrung gibt und die Luft sauberer macht.",
 			},
 			{
-				id: "ESCHE",
+				id: "Esche",
 				title: "Esche (Fraxinus)",
 				description:
-					"Die Esche (Fraxinus) hat einen Anteil von ca. 3% am Gesamtbestand, und belegt damit den sechsten Platz unter den Berliner Straßenbäumen. Mit einer Wuchshöhe von bis zu 40 m zählt sie zu den höchsten Laubbäumen Europas.",
+					"Die Esche ist ein schlanker, hoher Baum mit glatter grauer Rinde, der in Stadtparks und an Flussufern gut gedeiht. Ihre Blätter bestehen aus vielen kleinen Teilblättern an einem Stiel, ähnlich wie bei einer Feder, die im Herbst oft grün abfallen, ohne sich vorher bunt zu färben. Im Frühling bildet die Esche kleine, unscheinbare Blüten, bevor später ihre flachen, länglichen Samen mit Flügeln erscheinen, die wie kleine Propeller durch die Luft segeln können. Die Esche wächst schnell und hat eine lichte Krone, durch die noch genug Sonnenlicht für Pflanzen am Boden scheint. In der Stadt ist die Esche ein wertvoller Baum, weil sie gut mit dem Stadtklima zurechtkommt und ihr Holz sehr biegsam und stark zugleich ist.",
 			},
 			{
-				id: "BIRKE",
+				id: "Birke",
 				title: "Birke (Betula)",
 				description:
-					"Die Birke (Betula) hat einen Anteil von ca. 3% am Gesamtbestand. Obwohl die Birke als Pionierbaum sehr anspruchslos und wachsend auf jedem Boden ist, eignet sie sich als Straßenbaum weniger, da die Baumscheiben oft zu wenig Raum für die Flachwurzler bieten.",
+					"Die Birke ist ein schlanker Baum mit auffällig weißer Rinde, die wie Papier aussieht und manchmal kleine schwarze Striche hat. Ihre Blätter sind klein, dreieckig und gezackt am Rand, die im Wind leicht flattern und im Frühling ein helles, frisches Grün zeigen. Die Birke hat lange, dünne Zweige, die oft wie Haare herunterhängen und im Frühjahr kleine Kätzchen tragen, die später zu winzigen geflügelten Samen werden, die der Wind weit tragen kann. In der Stadt wächst die Birke oft an Straßenrändern und in Parks, wo sie mit ihrer weißen Rinde und der luftigen Krone besonders schön aussieht. Die Birke ist ein mutiger Baum, der auch auf mageren Böden wachsen kann und einer der ersten ist, der nach einem Brand oder auf leeren Flächen in der Stadt ein neues Zuhause findet.",
 			},
 			{
-				id: "ROBINIE",
+				id: "Robinie",
 				title: "Robinie (Robinia)",
 				description:
-					"Die Robinie (Robinia) hat einen Anteil von ca. 2% am Gesamtbestand. Sie wurde ab 1672 im Berliner Lustgarten als Parkbaum kultiviert und ist heute in ganz Berlin sehr häufig. Die Robinie stellt nur geringe Anforderungen an den Boden, und sie kann dank der Knöllchenbakterien an ihren Wurzeln Luftstickstoff bindenden und düngt damit den Boden auf.",
+					'Die Robinie, auch bekannt als "falsche Akazie", ist ein Baum mit gefiederten Blättern und einer stark gefurchten, graubraunen Rinde, der viele Stadtstraßen schmückt. Im späten Frühling trägt sie wunderschöne weiße Blütentrauben, die süß duften und Bienen anlocken. Die Robinie ist sehr widerstandsfähig gegen Abgase und Trockenheit, weshalb sie besonders gut in der Stadt wachsen kann. Ihre Wurzeln können Stickstoff aus der Luft aufnehmen und den Boden verbessern, was ein toller Trick dieses Baumes ist. Obwohl die Robinie ursprünglich aus Nordamerika stammt, fühlt sie sich in unseren Städten so wohl, dass sie inzwischen wie ein heimischer Baum wirkt und vielen Tieren Nahrung und Unterschlupf bietet.',
 			},
 			{
-				id: "HASEL",
+				id: "Hasel",
 				title: "Hasel Baum (Corylus)",
 				description:
-					"Der Hasel Baum (Corylus) hat einen Anteil von ca. 2% am Gesamtbestand, und ist somit der neunt häufigste Straßenbaum in Berlin. Die Haselnuss wächst als Strauch oder kleiner Baum bis zu 6 m hoch.",
+					"Die Hasel ist ein kleiner Baum oder großer Strauch, der mit seinen hängenden Kätzchen im Frühling die Stadtparks verschönert. Ihre herzförmigen Blätter spenden im Sommer angenehmen Schatten auf Spielplätzen und in Gärten. Im Herbst trägt die Hasel leckere Nüsse, die nicht nur von Eichhörnchen, sondern auch von Menschen gesammelt werden können. Stadtbewohner schätzen die Hasel besonders, weil sie robust gegen Abgase ist und vielen Vögeln ein Zuhause bietet. Die Zweige der Hasel wurden früher als Wünschelruten benutzt, um verborgenes Wasser zu finden.",
 			},
 			{
-				id: "HAINBUCHE",
+				id: "Hainbuche",
 				title: "Hainbuche (Carpinus)",
 				description:
-					"Der Anteil der Hainbuchen (Carpinus) beträgt rund 2% des Gesamtbestandes. Der Baum erreicht eine Höhe von bis zu 25 m. Die Krone ist erst leicht kegelförmig und später weit ausladend.",
+					"Die Hainbuche ist ein toller Stadtbaum mit herzförmigen Blättern und einer glatten, grau gestreiften Rinde, die wie Muskeln aussieht. Sie wächst nicht sehr hoch, meist nur 15 Meter, und verträgt Abgase und trockene Luft besonders gut, weshalb sie oft an Straßen und in Parks gepflanzt wird. Im Herbst werden ihre Blätter schön gelb, und kleine geflügelte Nüsse hängen in Büscheln am Baum. Die Hainbuche bietet vielen Vögeln und Insekten ein Zuhause und hält auch starken Rückschnitt aus, weshalb sie oft als Hecke verwendet wird.",
 			},
 			{
-				id: "PAPPEL",
+				id: "Pappel",
 				title: "Pappel (Populus)",
 				description:
-					"Die Pappel (Populus) hat einen Anteil von ca. 2% am Berliner Gesamtbestand. Sie haben eiförmige bis dreieckige, teils herzförmige Laubblätter.",
+					'Die Pappel ist ein schnell wachsender Baum, der in vielen Städten zu finden ist und mit ihrer schlanken Form und silbrig schimmernden Blättern auffällt. Sie kann sehr hoch werden, manchmal über 30 Meter, und ihre Wurzeln helfen, den Boden vor Erosion zu schützen. Im Frühling fliegen ihre flauschigen Samen wie kleine Schneeflocken durch die Luft, was manchmal wie "Pappelschnee" aussieht. Pappeln rauschen besonders schön im Wind, weil ihre Blätter an langen, dünnen Stielen hängen. In der Stadt sind Pappeln wichtige Schattenspender und helfen, die Luft sauberer zu machen.',
 			},
 			{
-				id: "ULME",
+				id: "Ulme",
 				title: "Ulme (Ulmus)",
 				description:
-					"Der Anteil der Ulmen (Ulmus) beträgt rund 2% des Gesamtbestandes. Es gibt bei uns drei der weltweit 45 Arten dieses sommergrünen Laubbaumes: die Bergulme, die Feldulme und die Flatter-Ulme. Sie kommt mit einer Höhe von bis zu 600 Metern vor und kann 250 Jahre alt werden.",
+					"Die Ulme ist ein prächtiger Stadtbaum mit einer breiten, gewölbten Krone, die viel Schatten spendet und früher viele Straßen und Plätze schmückte. Ihre Blätter sind rau und am Grund ungleichmäßig, was ihnen eine besondere Form gibt, die Kinder leicht erkennen können. Leider sind viele Ulmen durch eine Krankheit, das Ulmensterben, verschwunden, aber resistente Sorten werden heute wieder neu gepflanzt. Im Frühling bildet die Ulme kleine grüne Blüten und später flache, runde Früchte mit einem Flügel, die wie kleine Frisbees durch die Luft segeln können. Die Ulme ist ein wichtiger Lebensraum für viele Insekten und Vögel in der Stadt und kann bei guten Bedingungen über 400 Jahre alt werden.",
 			},
 		],
 		treeTypeInfoTitle: "Baumsteckbrief",

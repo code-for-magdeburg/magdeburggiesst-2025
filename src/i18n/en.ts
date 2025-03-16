@@ -390,82 +390,82 @@ The district ${district} has provided us with additional information on the indi
 		},
 		treeTypeInfos: [
 			{
-				id: "LINDE",
+				id: "Linde",
 				title: "Linden (Tilia)",
 				description:
-					"The lime tree has been the typical street tree in Berlin for years. With a share of a good third, it characterizes the street tree population. A total of 10 different species can be distinguished. The winter lime tree (Tilia cordata), a medium-sized tree that also finds room in narrower streets, is the preferred tree. The large-crowned imperial lime (Tilia intermedia), on the other hand, is reserved for wide avenues.",
+					"The linden tree is a beautiful tree with heart-shaped leaves that is often planted in city squares and streets. In summer, its small yellow flowers have a sweet scent and attract many bees that collect nectar there. With its round crown, the linden tree provides plenty of shade where people can rest on hot days. Linden trees can grow very old and large in cities and are known for coping well with exhaust fumes and dusty air. The linden is a friendly urban tree that not only provides shade for people but also helps to clean the air.",
 			},
 			{
-				id: "AHORN",
+				id: "Ahorn",
 				title: "Maple (Acer)",
 				description:
-					"The maple genus comprises approx. 20% of the total stock. The Norway maple (Acer platanoides) is particularly suitable for the street location. The early flowering and the colorful autumn coloring make the maple a particularly popular tree species.",
+					'The maple tree is a popular city tree with its distinctive, star-shaped leaves that turn beautifully red and yellow in autumn. In spring, the maple produces small flowers that later develop into the amusing "nose pinchers" - winged fruits that spin like propellers when they fall from the tree. Many birds and insects find a home in the maple, even in the middle of the city. The maple grows quickly and can cope well with the urban climate, which is why it is often planted along streets and in parks. Its broad crown provides pleasant shade in summer for playing children and adults who want to take a break.',
 			},
 			{
-				id: "EICHE",
+				id: "Eiche",
 				title: "Oak (Quercus)",
 				description:
-					"Oaks make up around 9% of the total stock. In Berlin, it is mainly the common oak (Quercus robur) that is planted. As a light tree, the oak is not suitable for narrow streets. The most recent avenues in the parliamentary and government district were planted with the so-called Spree oak (Quercus palustris), which is characterized by its particularly beautiful autumn colouring, among other things.",
+					"The oak is a large, strong tree that grows in many cities in parks and squares. It has special leaves with jagged edges and bears acorns in autumn that look like small caps with shells and are eagerly collected by squirrels and other animals. An oak tree can become very old - sometimes several hundred years - and provides a home for many birds, insects, and small animals in the city. The oak has thick, rough bark and can live well in the city despite exhaust fumes and poor air quality. Under its broad crown, people find cool shade in summer when it's hot in the city.",
 			},
 			{
-				id: "PLATANE",
+				id: "Platane",
 				title: "Plane tree (Platanus)",
 				description:
-					"An ideal avenue tree for wide streets is the plane tree (Platanus acerifolia), which in addition to a height of 20 to 30 m can also reach a stately crown diameter of 15 to 20 m. Sycamore trees make up around 6% of the total population. The best-known and, at over 120 years old, oldest plane tree avenue in Berlin is Puschkinallee in Berlin-Treptow.",
+					"The plane tree is a large urban tree with distinctive, mottled bark that looks like a puzzle with brown, green, and yellow patches. Its leaves resemble a hand with five fingers and provide plenty of shade in summer on city squares and along streets. The plane tree bears small, round, spiky fruits that hang like balls on the tree and later burst open. It is particularly well-suited for the city because it tolerates heat, drought, and dirty air better than many other trees. The plane tree can become very old and is often the largest tree on a playground or in a city park.",
 			},
 			{
-				id: "KASTANIE",
+				id: "Kastanie",
 				title: "Chestnut (Aesculus)",
 				description:
-					"The chestnut (Aesculus) accounts for around 5% of the total population, putting it in fifth place among Berlin's street trees. Horse chestnuts have five- and multi-lobed leaves that resemble the fingers of a hand; sweet chestnuts have single leaves that are also clearly serrated.",
+					"The chestnut tree is a magnificent tree with large, fan-shaped leaves that can be found in many cities in schoolyards and parks. In spring, it bears beautiful white or pink flower candles that look like small towers and decorate the tree. In autumn, the shiny brown chestnuts in spiky green shells fall to the ground, which children like to collect for crafting or playing. With its dense crown, the chestnut tree provides a good shady spot when it's hot in the city during summer. In many cities, chestnut trees are particularly popular because they grow large and strong and create beautiful places to linger.",
 			},
 			{
-				id: "ROSSKASTANIE",
+				id: "Rosskastanie",
 				title: "Horse chestnut (Aesculus hippocastanum)",
 				description:
-					"The horse chestnut (Aesculus hippocastanum) accounts for around 5% of the total population, making it the fifth most popular street tree in Berlin. Horse chestnuts have five- and multi-lobed leaves that resemble the fingers of a hand; sweet chestnuts have single leaves that are also clearly serrated.",
+					"The horse chestnut is a popular city tree with large, hand-shaped leaves that look like a fan with seven fingers. In spring, it adorns itself with white flower candles that stand upright like little towers, making the whole tree glow. In autumn, shiny brown chestnuts in spiky green shells fall down, which children like to collect to craft chestnut figures or other characters. The horse chestnut grows into a large, round tree and provides plenty of shade in parks and schoolyards on hot days. Although the fruits of the horse chestnut are not edible (unlike true edible chestnuts), it is an important tree for the city because it provides food for many insects and helps clean the air.",
 			},
 			{
-				id: "ESCHE",
+				id: "Esche",
 				title: "Ash (Fraxinus)",
 				description:
-					"The ash tree (Fraxinus) accounts for approx. 3% of the total population and thus occupies sixth place among Berlin's street trees. With a height of up to 40 m, it is one of the tallest deciduous trees in Europe.",
+					"The ash is a slender, tall tree with smooth gray bark that thrives in city parks and along riverbanks. Its leaves consist of many small leaflets on a stem, similar to a feather, which often fall off green in autumn without changing to colorful hues beforehand. In spring, the ash forms small, inconspicuous flowers, before later developing flat, oblong seeds with wings that can sail through the air like small propellers. The ash grows quickly and has a light crown, through which enough sunlight still shines for plants on the ground. In the city, the ash is a valuable tree because it copes well with the urban climate and its wood is both flexible and strong at the same time.",
 			},
 			{
-				id: "BIRKE",
+				id: "Birke",
 				title: "Birch (Betula)",
 				description:
-					"The birch (Betula) accounts for around 3% of the total population. Although the birch is a pioneer tree that is very undemanding and grows on any soil, it is less suitable as a street tree as the tree grates often offer too little space for the shallow-rooted trees.",
+					"The birch is a slender tree with strikingly white bark that looks like paper and sometimes has small black lines. Its leaves are small, triangular, and jagged at the edges, which flutter easily in the wind and show a bright, fresh green in spring. The birch has long, thin branches that often hang down like hair and bear small catkins in spring, which later become tiny winged seeds that the wind can carry far. In the city, the birch often grows along roadsides and in parks, where it looks particularly beautiful with its white bark and airy crown. The birch is a brave tree that can grow on poor soils and is one of the first to find a new home after a fire or on empty spaces in the city.",
 			},
 			{
-				id: "ROBINIE",
+				id: "Robinie",
 				title: "Robinia (Robinia)",
 				description:
-					"The Robinia (Robinia) accounts for around 2% of the total population. It was cultivated as a park tree in Berlin's Lustgarten from 1672 and is now very common throughout Berlin. The Robinia has low demands on the soil and, thanks to the nodule bacteria on its roots, it can bind atmospheric nitrogen and thus fertilize the soil.",
+					'The black locust, also known as "false acacia," is a tree with feathery leaves and deeply furrowed, grayish-brown bark that adorns many city streets. In late spring, it bears beautiful white clusters of flowers that smell sweet and attract bees. The black locust is very resistant to exhaust fumes and drought, which is why it can grow particularly well in the city. Its roots can absorb nitrogen from the air and improve the soil, which is a great trick of this tree. Although the black locust originally comes from North America, it feels so at home in our cities that it now seems like a native tree and provides food and shelter for many animals.',
 			},
 			{
-				id: "HASEL",
+				id: "Hasel",
 				title: "Hazel tree (Corylus)",
 				description:
-					"The hazel tree (Corylus) accounts for around 2% of the total population, making it the ninth most common street tree in Berlin. The hazelnut grows as a shrub or small tree up to 6 m high.",
+					"The hazel is a small tree or large shrub that beautifies city parks with its hanging catkins in spring. Its heart-shaped leaves provide pleasant shade in summer on playgrounds and in gardens. In autumn, the hazel bears delicious nuts that can be collected not only by squirrels but also by people. City dwellers especially appreciate the hazel because it is robust against exhaust fumes and provides a home for many birds. The branches of the hazel were formerly used as divining rods to find hidden water.",
 			},
 			{
-				id: "HAINBUCHE",
+				id: "Hainbuche",
 				title: "Hornbeam (Carpinus)",
 				description:
-					"The proportion of hornbeams (Carpinus) is around 2% of the total population. The tree reaches a height of up to 25 meters. The crown is initially slightly conical and later expands widely.",
+					"The hornbeam is a great urban tree with heart-shaped leaves and a smooth, gray-striped bark that looks like muscles. It doesn't grow very tall, usually only 15 meters, and tolerates exhaust fumes and dry air particularly well, which is why it is often planted along streets and in parks. In autumn, its leaves turn a beautiful yellow, and small winged nuts hang in clusters on the tree. The hornbeam provides a home for many birds and insects and can also withstand heavy pruning, which is why it is often used as a hedge.",
 			},
 			{
-				id: "PAPPEL",
+				id: "Pappel",
 				title: "Poplar (Populus)",
 				description:
-					"The poplar (Populus) accounts for around 2% of Berlin's total population. They have ovoid to triangular, sometimes heart-shaped leaves.",
+					'The poplar is a fast-growing tree that can be found in many cities and stands out with its slender shape and silvery shimmering leaves. It can grow very tall, sometimes over 30 meters, and its roots help protect the soil from erosion. In spring, its fluffy seeds fly through the air like small snowflakes, sometimes looking like "poplar snow." Poplars rustle especially beautifully in the wind because their leaves hang on long, thin stems. In the city, poplars are important shade providers and help make the air cleaner.',
 			},
 			{
-				id: "ULME",
+				id: "Ulme",
 				title: "Elm (Ulmus)",
 				description:
-					"Elms (Ulmus) make up around 2% of the total population. There are three of the world's 45 species of this deciduous deciduous tree: the mountain elm, the field elm and the elm tree. It grows up to 600 meters high and can live to be 250 years old.",
+					"The elm is a magnificent urban tree with a broad, arched crown that provides plenty of shade and once adorned many streets and squares. Its leaves are rough and uneven at the base, giving them a distinctive shape that children can easily recognize. Unfortunately, many elms have disappeared due to a disease called Dutch elm disease, but resistant varieties are being replanted today. In spring, the elm forms small green flowers and later flat, round fruits with a wing that can sail through the air like small frisbees. The elm is an important habitat for many insects and birds in the city and can live for over 400 years under good conditions.",
 			},
 		],
 		treeTypeInfoTitle: "Tree profile",
