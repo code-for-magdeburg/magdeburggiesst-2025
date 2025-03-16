@@ -52,7 +52,7 @@ export const Info: React.FC = () => {
 									>
 										{i18n.info.about.head.press}
 									</Markdown>
-									<div className="w-full 2xl:w-[640px] pt-4 pb-4">
+									<div className="w-full 2xl:w-[640px] pt-4 pb-4 justify-items-center">
 										<Credits />
 									</div>
 									<Markdown
@@ -71,7 +71,7 @@ export const Info: React.FC = () => {
 										label={i18n.info.about.head.slackButton}
 										onClick={() => {
 											window.open(
-												"https://join.slack.com/t/giessdenkiez/shared_invite/zt-e3et281u-xON4UmBZpKavzDRkw5HmCQ",
+												"https://join.slack.com/t/magdeburggiesst/shared_invite/zt-1tf5i2z3k-mTmk_PUBEOWuNWzDSNoH4w",
 												"_blank",
 											);
 										}}

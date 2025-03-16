@@ -10,7 +10,6 @@ import { LanguageToggle } from "../router/languageToggle";
 import { useI18nStore } from "../../i18n/i18n-store";
 import Markdown from "react-markdown";
 import { SplashTreeIcon } from "../icons/splash-tree-icon";
-import { ExternalAnchorLink } from "../anchor-link/external-anchor-link";
 import { useSplashStore } from "./splash-store";
 import { useIsInVegetationPeriod } from "../../utils/use-is-in-vegetation-period";
 
@@ -69,7 +68,7 @@ export const Splash: React.FC = () => {
 			ref={splashContainer}
 			className={`
 		absolute top-0 left-0 lg:top-1/2 lg:left-1/2 lg:-translate-x-1/2 lg:-translate-y-1/2
-		w-full lg:w-[80%] xl:w-[1028px] xl:h-[716px] 2xl:h-[732px] max-h-svh overflow-y-auto
+		w-full lg:w-[80%] xl:w-[1028px] max-h-svh overflow-y-auto
 		bg-white flex flex-col justify-between 
 		rounded-lg shadow-gdk-hard pointer-events-auto`}
 		>
@@ -85,8 +84,8 @@ export const Splash: React.FC = () => {
 					<div className="flex flex-col lg:flex-row justify-between w-full">
 						<div className="flex flex-row justify-between">
 							<div className="text-3xl font-bold flex-row flex gap-1 lg:translate-y-5">
-								<span>Gieß den</span>{" "}
-								<span className="text-gdk-neon-green"> Kiez</span>
+								<span>MAGDEBURG</span>
+								<span className="text-gdk-neon-green ms-1">GIESST</span>
 								<div className="-translate-y-3">
 									<SplashTreeIcon />
 								</div>
@@ -95,7 +94,7 @@ export const Splash: React.FC = () => {
 								<LanguageToggle />
 							</div>
 						</div>
-						<div className="hidden w-full sm:w-3/5 lg:w-7/12 lg:flex flex-row justify-end mr-8 mb-4 mt-6 lg:my-0 lg:px-4">
+						<div className="hidden sm:w-3/5 lg:w-7/12 lg:flex flex-row justify-end mr-8 mb-4 mt-6 lg:my-0 lg:px-4">
 							<Credits />
 						</div>
 					</div>
@@ -165,28 +164,6 @@ export const Splash: React.FC = () => {
 						content={i18n.splash.networkContent}
 						icon={<HiThereIcon className="w-6 h-6 2xl:w-8 2xl:h-8" />}
 					/>
-				</div>
-			</div>
-
-			<div className="flex flex-col lg:grid lg:grid-cols-1 lg:grid-rows-1 w-full bg-[#F3FDF9] border-t-2">
-				<div className="lg:col-start-1 lg:row-start-1 flex flex-row justify-end w-full items-end">
-					<img
-						className="pt-8 w-full lg:w-[60%]"
-						src="images/city-skyline.svg"
-						alt=""
-					/>
-				</div>
-				<div className="lg:col-start-1 lg:row-start-1 flex flex-col gap-2 px-8 lg:w-[65%] w-full py-4 ">
-					<div className="text-lg font-bold text-[#37DE8A]">
-						{i18n.splash.questionHeadline}
-					</div>
-					<div className="text-sm">{i18n.splash.questionSubheadline}</div>
-					<div className="text-sm">
-						<ExternalAnchorLink
-							href="https://deinestadt.giessdenkiez.de/"
-							label={i18n.splash.discoverMoreTitle}
-						></ExternalAnchorLink>
-					</div>
 				</div>
 			</div>
 		</div>

@@ -1,17 +1,17 @@
 type TreeTypeId =
-	| "LINDE"
-	| "AHORN"
-	| "EICHE"
-	| "KASTANIE"
-	| "ROSSKASTANIE"
-	| "PLATANE"
-	| "ESCHE"
-	| "BIRKE"
-	| "ROBINIE"
-	| "ULME"
-	| "HASEL"
-	| "HAINBUCHE"
-	| "PAPPEL";
+	| "Linde"
+	| "Ahorn"
+	| "Eiche"
+	| "Kastanie"
+	| "Rosskastanie"
+	| "Platane"
+	| "Esche"
+	| "Birke"
+	| "Robinie"
+	| "Ulme"
+	| "Hasel"
+	| "Hainbuche"
+	| "Pappel";
 
 interface TreeTypeInfo {
 	id: TreeTypeId;
