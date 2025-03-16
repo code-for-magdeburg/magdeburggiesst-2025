@@ -1,5 +1,5 @@
 import { create } from "zustand";
-// import { trackPageView } from "../matomo/utils/matomo";
+import { trackPageView } from "../matomo/utils/matomo";
 import { URLSearchParams } from "url";
 
 interface SetPathnameOptions {
@@ -37,8 +37,7 @@ export const useUrlState = create<URLState>()((set, get) => ({
 		set({ url });
 
 		window.history.pushState({}, "", url);
-		// TODO: Uncomment this line when Matomo is integrated
-		// trackPageView();
+		trackPageView();
 	},
 
 	setSearchParams: (searchParams: URLSearchParams) => {
@@ -51,8 +50,7 @@ export const useUrlState = create<URLState>()((set, get) => ({
 
 		debounceTimeoutId = setTimeout(() => {
 			window.history.pushState({}, "", url);
-			// TODO: Uncomment this line when Matomo is integrated
-			// trackPageView();
+			trackPageView();
 		}, 500);
 	},
 
