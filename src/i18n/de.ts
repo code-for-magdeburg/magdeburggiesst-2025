@@ -164,7 +164,7 @@ export const de: Content = {
 				},
 				{
 					question: "Datenquellen",
-					answer: `Die Karte zeigt einen Großteil der Magdeburger Straßen- und Anlagenbäume (ca. 82.000; Stand: März 2025). Zusätzlich wird abgebildet, wie viel Niederschlag in den letzten 30 Tagen bei jedem Baum gefallen ist und ob diese in der Zeit bereits gegossen wurden. Aus verschiedenen Gründen sind leider noch nicht alle Magdeburger Stadtbäume aufgeführt. Wir arbeiten aber daran, die Datenlage zu verbessern und eine möglichst vollständige Darstellung des Magdeburger Baumbestandes zu erreichen. Die aktuellen Datenquellen sind:
+					answer: `Die Karte zeigt einen Großteil der Magdeburger Straßen- und Anlagenbäume (ca. 80.000; Stand: März 2025). Zusätzlich wird abgebildet, wie viel Niederschlag in den letzten 30 Tagen bei jedem Baum gefallen ist und ob diese in der Zeit bereits gegossen wurden. Aus verschiedenen Gründen sind leider noch nicht alle Magdeburger Stadtbäume aufgeführt. Wir arbeiten aber daran, die Datenlage zu verbessern und eine möglichst vollständige Darstellung des Magdeburger Baumbestandes zu erreichen. Die aktuellen Datenquellen sind:
 
 Bäume: [Offene Verwaltungsdaten Magdeburg](https://www.magdeburg.de/B%C3%BCrger-Stadt/Verwaltung-Service/Offene-Verwaltungsdaten/index.php?NavID=37.906&object=tx|37.12819.1&La=1&)
 
@@ -198,7 +198,7 @@ Pumpen: [Open Street Map](https://www.openstreetmap.de)`,
 					answer: `
 Informieren:
 
-Neugierig, welcher Baum vor deiner Tür steht? Unsere interaktive Karte visualisiert fast 82.000 Straßen- und Anlagenbäume von Magdeburg. Wenn du mehr über einen Baum erfahren willst, navigiere und zoome dich zum gewünschten Standort und klicke auf den farbigen Punkt. Nun werden dir im Menüband rechts zahlreiche Informationen zum ausgewählten Baum angezeigt.
+Neugierig, welcher Baum vor deiner Tür steht? Unsere interaktive Karte visualisiert fast 80.000 Straßen- und Anlagenbäume von Magdeburg. Wenn du mehr über einen Baum erfahren willst, navigiere und zoome dich zum gewünschten Standort und klicke auf den farbigen Punkt. Nun werden dir im Menüband rechts zahlreiche Informationen zum ausgewählten Baum angezeigt.
 
 Bäume bewässern und adoptieren:
 
@@ -245,7 +245,7 @@ Versuche das Wasser der öffentlichen Straßenpumpen, statt Trinkwasser aus der 
 				},
 				{
 					question: "Warum lädt die Website nicht oder nur sehr langsam?",
-					answer: `Wenn die Seite zum ersten Mal geöffnet wird, lädt der Browser knapp 82.000 Datenpunkte – das kann eine Weile dauern! Unabhängig davon, kann es zu leicht unterschiedlichen Darstellungen bei der Verwendung unterschiedlicher Browser kommen. Für die beste „Experience” empfehlen wir die Nutzung von Chrome oder Firefox Desktop. Die häufigsten Probleme lassen sich erfahrungsgemäß beseitigen, wenn der Browser nicht veraltet, respektive die neueste Version installiert ist und eine stabile Internetverbindung (LAN oder WLAN) besteht.
+					answer: `Wenn die Seite zum ersten Mal geöffnet wird, lädt der Browser knapp 80.000 Datenpunkte – das kann eine Weile dauern! Unabhängig davon, kann es zu leicht unterschiedlichen Darstellungen bei der Verwendung unterschiedlicher Browser kommen. Für die beste „Experience” empfehlen wir die Nutzung von Chrome oder Firefox Desktop. Die häufigsten Probleme lassen sich erfahrungsgemäß beseitigen, wenn der Browser nicht veraltet, respektive die neueste Version installiert ist und eine stabile Internetverbindung (LAN oder WLAN) besteht.
 					
 Die Nutzung über das Smartphone (Mobilfunknetz) kann zu Performance-Problemen (Seite lädt langsam) führen. Sollten wiederholt Probleme auftreten, könnt ihr diese in unserem [Slack Channel](https://join.slack.com/t/magdeburggiesst/shared_invite/zt-1tf5i2z3k-mTmk_PUBEOWuNWzDSNoH4w), per Mail oder via [GitHub Issue](https://github.com/code-for-magdeburg/magdeburggiesst-2025/issues) unter Angabe des benutzten Geräts, des Betriebssystems, des Browsers und Version des Browsers melden.`,
 				},
@@ -548,7 +548,7 @@ Der Bezirk ${district} hat uns zusätzliche Informationen zur individuellen Gie�
 		actionTitleWinter: "Erkunden!",
 		discoverTitle: "Entdecken",
 		discoverContent:
-			"Die Karte visualisiert über 80.000 Stadtbäume und zeigt Informationen zu Art, Alter und Wasserbedarf an. Nutze die Filter- und Suchfunktionen, um schnell einen Überblick zu erhalten.",
+			"Die Karte visualisiert circa 80.000 Stadtbäume und zeigt Informationen zu Art, Alter und Wasserbedarf an. Nutze die Filter- und Suchfunktionen, um schnell einen Überblick zu erhalten.",
 		waterTitle: "Gießen",
 		waterContent:
 			"Schnapp Dir eine Gießkanne und werde Teil der Gieß-Community! Bereits über einhundert Aktive haben sich für die Bäume von Magdeburg zusammengeschlossen und tragen ihre Gießungen regelmäßig ein.",
@@ -566,7 +566,7 @@ Der Bezirk ${district} hat uns zusätzliche Informationen zur individuellen Gie�
 	},
 	loading: {
 		mapLoading:
-			"Wir laden gerade über 82.000 Bäume aus dem Magdeburger Baumbestand.",
+			"Wir laden gerade circa 80.000 Bäume aus dem Magdeburger Baumbestand.",
 		treeLoading: "Lade Bauminformationen...",
 	},
 	stats: {
@@ -620,7 +620,7 @@ Aber Achtung! Jungbäume können auch überwässert werden. Mehr Informationen z
 
 Diese Übersicht zeigt die zwanzig häufigsten Arten, jeweils zusammengefasst nach der übergreifenden Gattung.
 
-Die MAGDEBURG GIESST Karte zeigt die volle Pracht, und somit über 80.000 Stadtbäume, mit Infos zu Art, Alter und Wasserbedarf. Nutze die Filter und Suche, um mehr über die Bäume in Deiner Nachbarschaft zu erfahren.
+Die MAGDEBURG GIESST Karte zeigt die volle Pracht, und somit fast 80.000 Stadtbäume, mit Infos zu Art, Alter und Wasserbedarf. Nutze die Filter und Suche, um mehr über die Bäume in Deiner Nachbarschaft zu erfahren.
 
 Datenquelle: [Magdeburger Baumkataster](https://www.magdeburg.de/B%C3%BCrger-Stadt/Verwaltung-Service/Offene-Verwaltungsdaten/index.php?NavID=37.906&object=tx|37.12819.1&La=1&)`,
 		},

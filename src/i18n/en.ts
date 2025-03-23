@@ -162,7 +162,7 @@ export const en: Content = {
 				},
 				{
 					question: "Data Sources",
-					answer: `The map shows a large portion of Magdeburg's street and park trees (approx. 82,000; as of March 2025). Additionally, it displays how much precipitation has fallen on each tree in the last 30 days and whether they have already been watered during this time. For various reasons, unfortunately not all of Magdeburg's city trees are listed yet. However, we are working to improve the data situation and achieve the most complete representation possible of Magdeburg's tree inventory. The current data sources are:
+					answer: `The map shows a large portion of Magdeburg's street and park trees (approx. 80,000; as of March 2025). Additionally, it displays how much precipitation has fallen on each tree in the last 30 days and whether they have already been watered during this time. For various reasons, unfortunately not all of Magdeburg's city trees are listed yet. However, we are working to improve the data situation and achieve the most complete representation possible of Magdeburg's tree inventory. The current data sources are:
 
 Trees: [Open Government Data Magdeburg](https://www.magdeburg.de/B%C3%BCrger-Stadt/Verwaltung-Service/Offene-Verwaltungsdaten/index.php?NavID=37.906&object=tx|37.12819.1&La=1&)
 
@@ -195,7 +195,7 @@ Pumps: [Open Street Map](https://www.openstreetmap.de)`,
 					question: "How can I participate?",
 					answer: `Explore:
 
-Curious about which tree stands in front of your door? Our interactive map visualizes nearly 82,000 street and park trees in Magdeburg. If you want to learn more about a tree, navigate and zoom to the desired location and click on the colored dot. Now numerous details about the selected tree will be displayed in the menu bar on the right.
+Curious about which tree stands in front of your door? Our interactive map visualizes nearly 80,000 street and park trees in Magdeburg. If you want to learn more about a tree, navigate and zoom to the desired location and click on the colored dot. Now numerous details about the selected tree will be displayed in the menu bar on the right.
 
 Watering and adopting trees:
 
@@ -239,7 +239,7 @@ Try to use water from public street pumps rather than drinking water from your h
 				},
 				{
 					question: "Why is the website not loading or loading very slowly?",
-					answer: `When the page is opened for the first time, the browser loads approximately 82,000 data points – this can take a while! Regardless, there may be slightly different displays when using different browsers. For the best "experience," we recommend using Chrome or Firefox Desktop. Based on experience, the most common problems can be eliminated if the browser is not outdated (i.e., the latest version is installed) and a stable internet connection (LAN or WLAN) exists.
+					answer: `When the page is opened for the first time, the browser loads approximately 80,000 data points – this can take a while! Regardless, there may be slightly different displays when using different browsers. For the best "experience," we recommend using Chrome or Firefox Desktop. Based on experience, the most common problems can be eliminated if the browser is not outdated (i.e., the latest version is installed) and a stable internet connection (LAN or WLAN) exists.
 
 Using the website via smartphone (mobile network) may lead to performance issues (slow page loading). If problems occur repeatedly, you can report these in our [Slack Channel](https://join.slack.com/t/magdeburggiesst/shared_invite/zt-1tf5i2z3k-mTmk_PUBEOWuNWzDSNoH4w), by email, or via GitHub Issue, including details of the device used, operating system, browser, and browser version.
 Die Nutzung über das Smartphone (Mobilfunknetz) kann zu Performance-Problemen (Seite lädt langsam) führen. Sollten wiederholt Probleme auftreten, könnt ihr diese in unserem [Slack Channel](https://join.slack.com/t/magdeburggiesst/shared_invite/zt-1tf5i2z3k-mTmk_PUBEOWuNWzDSNoH4w), per Mail oder via [GitHub Issue](https://github.com/code-for-magdeburg/magdeburggiesst-2025/issues) unter Angabe des benutzten Geräts, des Betriebssystems, des Browsers und Version des Browsers melden.`,
@@ -535,7 +535,7 @@ The district ${district} has provided us with additional information on the indi
 		actionTitleWinter: "Explore!",
 		discoverTitle: "Discover",
 		discoverContent:
-			"The map visualizes over 80,000 urban trees and displays information on species, age and water requirements. Use the filter and search functions to quickly get an overview.",
+			"The map visualizes nearly 80,000 urban trees and displays information on species, age and water requirements. Use the filter and search functions to quickly get an overview.",
 		waterTitle: "Water",
 		waterContent:
 			"Grab a watering can and become part of the watering community! Over one hundred active people have already joined forces for Magdeburg's trees and are regularly submitting their waterings.",
@@ -553,7 +553,7 @@ The district ${district} has provided us with additional information on the indi
 	},
 	loading: {
 		mapLoading:
-			"We are currently loading over 82,000 trees from the Magdeburg tree population.",
+			"We are currently loading nearly 80,000 trees from the Magdeburg tree population.",
 		treeLoading: "Loading tree information...",
 	},
 	stats: {
@@ -605,7 +605,7 @@ But be careful! Young trees can also be overwatered. More information on [wateri
 
 This overview shows the twenty most common species, each summarized according to the overarching tree genus.
 
-The MAGDEBURG GIESST map shows the full splendor, and thus over 80,000 city trees, with information on species, age and water requirements. Use the filters and search to find out more about the trees in your neighborhood.
+The MAGDEBURG GIESST map shows the full splendor, and thus nearly 80,000 city trees, with information on species, age and water requirements. Use the filters and search to find out more about the trees in your neighborhood.
 
 Data source: [Magdeburg tree cadastre](https://www.magdeburg.de/B%C3%BCrger-Stadt/Verwaltung-Service/Offene-Verwaltungsdaten/index.php?NavID=37.906&object=tx|37.12819.1&La=1&)`,
 		},
