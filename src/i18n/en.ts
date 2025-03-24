@@ -575,7 +575,7 @@ The district ${district} has provided us with additional information on the indi
 			unit: "liters",
 			watered: "poured",
 			rain: "rain",
-			hint: () => `have already been poured since 2020.`,
+			hint: () => `have already been poured since 2023.`,
 			legend: "∑ Liters poured per month",
 			backContent: `Thousands of liters of water have already been voluntarily poured!
 			

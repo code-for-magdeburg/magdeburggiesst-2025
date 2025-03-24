@@ -591,7 +591,7 @@ Der Bezirk ${district} hat uns zusätzliche Informationen zur individuellen Gie�
 `,
 			watered: "gegossen",
 			rain: "Regen",
-			hint: () => `wurden insgesamt schon seit 2020 gegossen.`,
+			hint: () => `wurden insgesamt schon seit 2023 gegossen.`,
 			backContent: `Tausende Liter Wasser wurden bereits ehrenamtlich gegossen! 
 		
 “Je mehr desto besser” gilt jedoch nicht immer angesichts immer größerer Wasserknappheit. Und das weiß die Magdeburger Gieß-Community natürlich, und ist daher hauptsächlich dann aktiv wenn die Bäume tatsächlich durstig sind: während der  Vegetationsperiode (April-Oktober) in besonders heißen trockenen Jahren. 
