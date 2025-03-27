@@ -45,7 +45,11 @@ export const PumpTooltip: React.FC<PumpTooltipProps> = ({ pump }) => {
 					<div className="">{pump.lastCheck}</div>
 				</div>
 			</div>
-			<div className="text-sm pt-2 border-t-2 ">
+			{
+				/* Pump update link hidden.
+				Refer to this issue: https://github.com/technologiestiftung/giessdenkiez-de/issues/999 */
+			}
+			<div className="text-sm pt-2 border-t-2 hidden">
 				<a
 					className="underline"
 					target="_blank"
