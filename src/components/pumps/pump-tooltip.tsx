@@ -14,8 +14,13 @@ export const PumpTooltip: React.FC<PumpTooltipProps> = ({ pump }) => {
 	// The "status" in the OpenStreetMap property is German, so we need to translate it
 	const statusMap = {
 		funktionsfähig: i18n.pumps.working,
+		ok: i18n.pumps.working,
 		defekt: i18n.pumps.defect,
+		out_of_order: i18n.pumps.defect,
+		broken: i18n.pumps.defect,
+		missing_beam: i18n.pumps.defect,
 		unbekannt: i18n.pumps.unknown,
+		unknown: i18n.pumps.unknown,
 	};
 
 	return (
