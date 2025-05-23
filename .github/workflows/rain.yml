@@ -19,7 +19,7 @@ jobs:
     name: Aggregate rain data from DWD radolan
     steps:
       - name: Harvester
-        # uses: docker://technologiestiftung/giessdenkiez-de-dwd-harvester:v2.9.0
+        # uses: docker://technologiestiftung/giessdenkiez-de-dwd-harvester:v2.9.2
         # TODO: Use a docker image
         uses: code-for-magdeburg/magdeburggiesst-dwd-harvester-2025@main-magdeburg
         id: harvester
@@ -40,6 +40,6 @@ jobs:
           MAPBOXLAYERNAME: ${{ secrets.MAPBOXLAYERNAME }}
           SKIP_MAPBOX: "False"
           LIMIT_DAYS: ${{ vars.LIMIT_DAYS }}
-          SURROUNDING_SHAPE_FILE: ${{ vars.SURROUNDING_SHAPE_FILE }}
+          SURROUNDING_SHAPE_FILE: "/app/assets/magdeburg.shp"
           WEATHER_HARVEST_LAT: ${{ vars.WEATHER_HARVEST_LAT }}
           WEATHER_HARVEST_LNG: ${{ vars.WEATHER_HARVEST_LNG }}
