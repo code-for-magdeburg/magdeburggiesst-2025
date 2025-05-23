@@ -23,7 +23,7 @@ jobs:
         # TODO: Use a docker image
         uses: code-for-magdeburg/magdeburggiesst-dwd-harvester-2025@main-magdeburg
         with:
-          SURROUNDING_SHAPE_FILE: '/app/assets/magdeburg.shp'
+          SURROUNDING_SHAPE_FILE: "/app/assets/magdeburg.shp"
         id: harvester
         env:
           PG_SERVER: ${{ secrets.PG_SERVER }}
