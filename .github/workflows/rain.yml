@@ -22,6 +22,8 @@ jobs:
         # uses: docker://technologiestiftung/giessdenkiez-de-dwd-harvester:v2.9.2
         # TODO: Use a docker image
         uses: code-for-magdeburg/magdeburggiesst-dwd-harvester-2025@main-magdeburg
+        with:
+          SURROUNDING_SHAPE_FILE: '/app/assets/magdeburg.shp'
         id: harvester
         env:
           PG_SERVER: ${{ secrets.PG_SERVER }}
@@ -40,6 +42,6 @@ jobs:
           MAPBOXLAYERNAME: ${{ secrets.MAPBOXLAYERNAME }}
           SKIP_MAPBOX: "False"
           LIMIT_DAYS: ${{ vars.LIMIT_DAYS }}
-          SURROUNDING_SHAPE_FILE: "/app/assets/magdeburg.shp"
+          SURROUNDING_SHAPE_FILE: ${{ vars.SURROUNDING_SHAPE_FILE }}
           WEATHER_HARVEST_LAT: ${{ vars.WEATHER_HARVEST_LAT }}
           WEATHER_HARVEST_LNG: ${{ vars.WEATHER_HARVEST_LNG }}
